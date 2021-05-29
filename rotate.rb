@@ -1,5 +1,6 @@
 # Ejercicio realizador por: Cristina Ramirez
 
+# Sin usar el built-in method de ruby que se llama "rotate":
 # Dado un arreglo A de N indices [A(0), A(1), A(2), ..., A(N-1), A(N)] se dice
 # que se "rota" una vez quedando A(K=1)=[A(N), A(0), A(1), A(2), ..., A(N-1)],
 # esta rotacion puede ocurrir K veces dando como resultado un arreglo final B.
